@@ -1,0 +1,2 @@
+# ujian
+UAS KECERDASAN BUATAN
